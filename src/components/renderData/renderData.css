@@ -1,0 +1,21 @@
+
+.article {
+  background-color: rgb(243, 243, 243);
+  margin-top: 10px;
+  padding: 20px 20px;
+  width: 95%;
+  margin: 10px auto;
+
+  
+}
+.artLinks{
+    text-decoration: none;
+    color: rgb(3, 3, 3);
+  
+}
+.nothing{
+    color: rgb(240, 238, 238);
+    text-align: center;
+    margin-top: 200px;
+    letter-spacing: 7px;
+}
