@@ -1,0 +1,33 @@
+.randomPar {
+  color: rgb(255, 255, 255);
+  margin-bottom: 3px;
+}
+#keyword {
+  margin: 0 auto 20px auto;
+  display: block;
+  border-radius: 15px;
+  background-color: rgb(15, 40, 77);
+  border: 2px solid rgb(235, 152, 0);
+  color: white;
+  padding: 3px 7px;
+}
+.searchSec {
+    text-align: center;
+}
+#randomLink {
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* .formContainer{
+    position: relative;
+    width: 100%;
+} */
+#deleteIcon{
+    position: relative;
+    bottom: 51px;
+    left: 80px;
+    cursor: pointer;
+    
+
+}
